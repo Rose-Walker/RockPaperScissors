@@ -7,7 +7,7 @@ A game of Rock Paper Scissors created in Java!
 
 ## Setup Guide
 1. Download or clone the repository
-2. Once downloaded opn the folder in your chosen IDE
+2. Once downloaded open the folder in your chosen IDE
 3. Once open, simply run the project
 
 ## User Guide
